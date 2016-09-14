@@ -23,7 +23,8 @@ http://bit.ly/ifmo-android-2016-survey
 ## Структура курса
 
 1. Вводная лекция: https://github.com/IFMO-Android-2016/lesson1/
-2. ...
+2. Первое практическое занятие: https://github.com/IFMO-Android-2016/practice1
+3. ...
 
 ## Как получить зачет?
 
