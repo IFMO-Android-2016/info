@@ -50,10 +50,12 @@ http://bit.ly/ifmo-android-2016-survey
 - В сумме за все выполненные ДЗ можно получить максимум 50 баллов
 - Условия оценки каждого ДЗ будут указываться в задании
 
-- Домашнее задание №1: https://github.com/IFMO-Android-2016/homework1 (калькулятор)
-- Домашнее задание №2: https://github.com/IFMO-Android-2016/homework2 (список фильмов)
-- Домашнее задание №3: https://github.com/IFMO-Android-2016/homework3 (сервис и броадкаст ресивер)
-- Домашнее задание №4: https://github.com/IFMO-Android-2016/homework4 (кэш на SQLite)
+- Домашнее задание №1: https://github.com/IFMO-Android-2016/homework1 (калькулятор) - дедлайн уже прошел
+- Домашнее задание №2: https://github.com/IFMO-Android-2016/homework2 (список фильмов) - дедлайн 15 декабря 23:59
+- Домашнее задание №3: https://github.com/IFMO-Android-2016/homework3 (сервис и броадкаст ресивер) - дедлайн 23 ноября 23:59
+- Домашнее задание №4: https://github.com/IFMO-Android-2016/homework4 (кэш на SQLite) - дедлайн 8 декабря 23:59
+
+После дедлайна ДЗ принимаются, но при этом выставляется оценка не больше 6.
 
 ### Проект 
 
